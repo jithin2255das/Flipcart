@@ -1,0 +1,294 @@
+.parent{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 1500px;
+}
+.nav{
+    background-color: rgb(155, 205, 243);
+    width: 100%;
+    height: 50px;
+     display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.flip{
+    
+    width: 140px;
+    height: 35px;
+    
+}
+.flipimage{
+     width: 140px;
+    height: 35px;
+    object-fit: cover;
+}
+.abcd{
+    color: rgb(250, 182, 11);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+
+}
+.main{
+    background-color: brown;
+     width: 100%;
+       height: 570px;
+
+    display: flex;
+}
+.a{
+    background-color: rgb(252, 252, 252);
+    width: 70%;
+    height: 100%;
+   
+}
+.b{
+     background-color: rgb(251, 253, 253);
+    width: 70%;
+    height: 100%;
+    
+}
+.c{
+    
+    width: 40%;
+    height: 100%;
+}
+.one{
+   
+    height: 180px;
+    width: 180px;
+    
+}
+.two{
+    /* background-color: black; */
+    height: 180px;
+    width: 180px;
+}
+.three{
+    /* background-color: black; */
+    height: 150px;
+    width: 180px;
+    
+}
+.four{
+    /* background-color: black; */
+   height: 164px;
+    width: 180px;
+}
+
+
+
+.box{
+    /* background-color: darkgreen; */
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.boxxxx{
+     /* background-color: darkgreen; */
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.onebox{
+     /* background-color:aquamarine; */
+    height: 50%;
+    width: 100%;
+     display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.twobox{
+      /* background-color:aquamarine; */
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.five{
+    /* background-color: black; */
+    height: 180px;
+    width: 180px;
+}
+ .six{
+    /* background-color: black; */
+    height: 180px;
+    width: 180px;
+ }
+ .seven{
+    /* background-color: black; */
+    height: 160px;
+    width: 180px;
+ }
+.eight{
+    /* background-color: black; */
+   height: 160px;
+    width: 180px;
+}
+.image{
+
+   
+    width: 60%;
+    height: 80%;
+}
+.top{
+    background-color: rgb(76, 0, 255);
+    width: 100%;
+    height: 100%;
+}
+.side{
+      width: 100%;
+    height: 100%;
+}
+.header .p{
+    /* text-align: center; */
+    font-size: medium;
+}
+.home{
+     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    cursor: pointer;
+    &:hover{
+        color: black;
+    }
+}
+.sub{
+     background-color: rgb(255, 0, 0);
+     width: 100%;
+      height: 250px;
+
+    
+    
+}
+.d{
+ background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.e{
+ background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.up{
+        width: 400px;
+    height: 240px;
+/* 
+    background-color: aquamarine; */
+}
+.down{
+       width: 400px;
+    height: 240px;
+    background-color: aquamarine;
+}
+.imageup{
+     width: 400px;
+    height: 240px;
+       
+}
+.search-bar{
+        width: 20%;
+    height: 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+    display: flex;
+    border-radius: 20px;
+    padding: 6px 20px;
+}
+.search-bar input{
+    background-color: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 8px 4px;
+    font-size: 15px;
+    color: #faf9fd;
+}
+.img{
+    width: 25px;
+    
+}
+.search-bar button{
+    border: 0;
+    border-radius: 45%;
+    height: 20px;
+    width: 25px;
+}
+p{
+     color: black;
+     position: absolute;
+                         top: 287px;
+    left: 550px;
+}
+.maintwo{
+    background-color: blue;
+    width: 100%;
+    height: 250px;
+}
+.mainimg{
+    width: 100%;
+    height: 250px;
+}
+.subone{
+    background-color: beige;
+   
+     width: 100%;
+    height: 41px;
+     
+}
+.label{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 100%;
+}
+.mini{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 250px;
+     display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.minibox{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+}
+.miniimg{
+     width: 100px;
+    height: 100px;
+}
+.subthree{
+    background-color: black;
+    height: 180px;
+    width: 180px;
+}
+.parentone{
+    background-color: rgb(244, 252, 247);
+    width: 100%;
+    height: 50px;
+}
+.parenttwo{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 250px;
+      display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.imgsub{
+     height: 180px;
+    width: 180px;
+}
